@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m31/proprietary/vendor/firmware/setfile_gc5035_macro.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_gc5035_macro.bin \
     vendor/samsung/m31/proprietary/vendor/firmware/setfile_imx616.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_imx616.bin \
     vendor/samsung/m31/proprietary/vendor/firmware/setfile_gw1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_gw1.bin \
-    vendor/samsung/m31/proprietary/vendor/firmware/setfile_hi2021q.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_hi2021q.bin \
     vendor/samsung/m31/proprietary/vendor/lib/egl/libGLES_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLES_mali.so \
     vendor/samsung/m31/proprietary/vendor/lib/hw/camera.exynos9611.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos9611.so \
     vendor/samsung/m31/proprietary/vendor/lib/hw/gralloc.exynos9611.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.exynos9611.so \
