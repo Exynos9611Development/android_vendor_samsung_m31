@@ -11,6 +11,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m31/proprietary/vendor/app/mcRegistry/09090000070100010000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/09090000070100010000000000000000.tlbin \
     vendor/samsung/m31/proprietary/vendor/etc/init/fingerprint_common.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/fingerprint_common.rc \
     vendor/samsung/m31/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
+    vendor/samsung/m31/proprietary/vendor/etc/mixer_gains.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_gains.xml \
+    vendor/samsung/m31/proprietary/vendor/etc/mixer_gains_rc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_gains_rc.xml \
+    vendor/samsung/m31/proprietary/vendor/etc/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml \
+    vendor/samsung/m31/proprietary/vendor/etc/mixer_paths_rc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_rc.xml \
     vendor/samsung/m31/proprietary/vendor/firmware/APBargeIn_AUDIO_SLSI.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/APBargeIn_AUDIO_SLSI.bin \
     vendor/samsung/m31/proprietary/vendor/firmware/APBiBF_AUDIO_SLSI.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/APBiBF_AUDIO_SLSI.bin \
     vendor/samsung/m31/proprietary/vendor/firmware/AP_AUDIO_SLSI.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/AP_AUDIO_SLSI.bin \
@@ -27,7 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m31/proprietary/vendor/firmware/setfile_imx616.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_imx616.bin \
     vendor/samsung/m31/proprietary/vendor/lib/hw/camera.exynos9611.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos9611.so \
     vendor/samsung/m31/proprietary/vendor/lib/libSEF.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSEF.quram.so \
-    vendor/samsung/m31/proprietary/vendor/lib/libbauthserver.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbauthserver.so \
+    vendor/samsung/m31/proprietary/vendor/lib/libbauthserver.so:$(TARGET_COPY_OUT_VEzNDOR)/lib/libbauthserver.so \
     vendor/samsung/m31/proprietary/vendor/lib/libbauthtzcommon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbauthtzcommon.so \
     vendor/samsung/m31/proprietary/vendor/lib/libegis_fp_normal_sensor_test.so:$(TARGET_COPY_OUT_VENDOR)/lib/libegis_fp_normal_sensor_test.so \
     vendor/samsung/m31/proprietary/vendor/lib/libexynoscamera3.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera3.so \
